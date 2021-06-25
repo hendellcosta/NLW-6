@@ -2,4 +2,4 @@
 
 Hey Guys!
 
-Thats my final result of NLW 6 Event by Rocketseat!
+That's my final result of NLW 6 Event by Rocketseat!
