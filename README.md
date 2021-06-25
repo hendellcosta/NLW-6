@@ -1,2 +1,5 @@
 # NLW-6
- My final result of NLW 6 Event by Rocketseat
+
+Hey Guys!
+
+Thats my final result of NLW 6 Event by Rocketseat!
