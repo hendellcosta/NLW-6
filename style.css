@@ -71,7 +71,7 @@ body {
 }
 
 .button:hover {
-  background-color: black;
+  background: black;
 }
 
 .divider-1 {
